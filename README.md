@@ -1,0 +1,2 @@
+# spark-kth
+In this lab you will practice the basic operations of Spark (RDDs) and Spark SQL (DataFrames). We have used the Jupyter Notebooks for this lab assignment. Notebooks are documents that contain both the programming code, as well as human-readable text elements. Below, we first explain how to install Spark and test it, and then we go through the steps to install Jupyter Notebook on a Linux machine. Then, we show how to use this environment to do your assignment.
